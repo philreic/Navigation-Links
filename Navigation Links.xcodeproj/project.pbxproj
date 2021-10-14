@@ -11,6 +11,7 @@
 		51F18E08271885350099C48F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51F18E07271885350099C48F /* ContentView.swift */; };
 		51F18E0A2718853A0099C48F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51F18E092718853A0099C48F /* Assets.xcassets */; };
 		51F18E0D2718853A0099C48F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51F18E0C2718853A0099C48F /* Preview Assets.xcassets */; };
+		51F18E14271885B20099C48F /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51F18E13271885B20099C48F /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		51F18E07271885350099C48F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		51F18E092718853A0099C48F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		51F18E0C2718853A0099C48F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		51F18E13271885B20099C48F /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				51F18E05271885350099C48F /* Navigation_LinksApp.swift */,
 				51F18E07271885350099C48F /* ContentView.swift */,
+				51F18E13271885B20099C48F /* SecondView.swift */,
 				51F18E092718853A0099C48F /* Assets.xcassets */,
 				51F18E0B2718853A0099C48F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51F18E14271885B20099C48F /* SecondView.swift in Sources */,
 				51F18E08271885350099C48F /* ContentView.swift in Sources */,
 				51F18E06271885350099C48F /* Navigation_LinksApp.swift in Sources */,
 			);
